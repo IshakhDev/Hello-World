@@ -4,8 +4,6 @@
 
 <h1> All the best.................... </h1>
 
-<h1> I love preeetha </h1>
-
 <h1> shez mine </h1>
 
 <h1> Tomorrow We will be having 3rd project which is Kubernetes Project.................... </h1>
